@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**elviravdiji/elviravdiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently learning:
+- Python
+- Javascript - Next.js
 
-Here are some ideas to get you started:
+# Reach me:
+- [elviravdiji@proton.me](mailto:elviravdiji@proton.me)
+- [Instagram](https://instagram.com/chaos.otaku)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Pronouns: He/Him
+
+# Fun facts:
+- Python was not named after a snake
+- NASA still operates some projects on programming from the 1970’s
+- Coding will soon be as important as reading
