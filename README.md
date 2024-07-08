@@ -1,4 +1,5 @@
 # Hi there 👋
+I am Elvir Avdiji, a student in university.
 
 # Currently learning:
 - Python
